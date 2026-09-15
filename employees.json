@@ -1,0 +1,23 @@
+[
+    {
+        "employeeId": "01",
+        "name": "Angel Mahusay",
+        "email": "Angelmahusay@gmail.com",
+        "type": "Developer",
+        "salary": 30000
+    },
+    {
+        "employeeId": "02",
+        "name": "Erica Sobiono",
+        "email": "erica12@gmail.com",
+        "type": "Network Administrator",
+        "salary": 25000
+    },
+    {
+        "employeeId": "03",
+        "name": "Shan Degolacion",
+        "email": "shandegolacion@gmail.com",
+        "type": "IT Support",
+        "salary": 25000
+    }
+]
